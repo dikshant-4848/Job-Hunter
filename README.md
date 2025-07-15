@@ -18,8 +18,6 @@ This web-app is designed to keep track of a users job application status. A user
     - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
 
 ## Overview✅✅
